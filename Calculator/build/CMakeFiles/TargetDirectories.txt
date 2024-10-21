@@ -1,0 +1,4 @@
+C:/Users/tusha/Documents/learning-cpp/cmake-basics/Calculator/build/CMakeFiles/calclib.dir
+C:/Users/tusha/Documents/learning-cpp/cmake-basics/Calculator/build/CMakeFiles/calc.dir
+C:/Users/tusha/Documents/learning-cpp/cmake-basics/Calculator/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/tusha/Documents/learning-cpp/cmake-basics/Calculator/build/CMakeFiles/ZERO_CHECK.dir

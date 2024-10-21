@@ -1,0 +1,4 @@
+C:/Users/tusha/Documents/learning-cpp/cmake-basics/MyProject/build/CMakeFiles/one.dir
+C:/Users/tusha/Documents/learning-cpp/cmake-basics/MyProject/build/CMakeFiles/another.dir
+C:/Users/tusha/Documents/learning-cpp/cmake-basics/MyProject/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/tusha/Documents/learning-cpp/cmake-basics/MyProject/build/CMakeFiles/ZERO_CHECK.dir

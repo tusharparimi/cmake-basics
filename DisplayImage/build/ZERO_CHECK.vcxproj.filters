@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\tusha\Documents\learning-cpp\cmake-basics\DisplayImage\build\CMakeFiles\e97320591fdd134213c29089e7667bdf\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3762C884-D7FD-3B2E-B6AA-A67A87E22E40}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

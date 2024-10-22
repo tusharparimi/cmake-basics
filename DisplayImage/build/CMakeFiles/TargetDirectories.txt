@@ -1,3 +1,0 @@
-C:/Users/tusha/Documents/learning-cpp/cmake-basics/DisplayImage/build/CMakeFiles/DisplayImage.dir
-C:/Users/tusha/Documents/learning-cpp/cmake-basics/DisplayImage/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/tusha/Documents/learning-cpp/cmake-basics/DisplayImage/build/CMakeFiles/ZERO_CHECK.dir

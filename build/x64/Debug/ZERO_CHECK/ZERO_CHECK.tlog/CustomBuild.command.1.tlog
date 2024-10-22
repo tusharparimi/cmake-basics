@@ -1,0 +1,10 @@
+^C:\USERS\TUSHA\DOCUMENTS\LEARNING-CPP\CMAKE-BASICS\BUILD\CMAKEFILES\A5ADB6A2B5BBF1777ED43CDE0F57AA23\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/tusha/Documents/learning-cpp/cmake-basics -BC:/Users/tusha/Documents/learning-cpp/cmake-basics/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/tusha/Documents/learning-cpp/cmake-basics/build/Main.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

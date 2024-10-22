@@ -1,0 +1,8 @@
+C:/Users/tusha/Documents/learning-cpp/cmake-basics/build/CMakeFiles/Main.dir
+C:/Users/tusha/Documents/learning-cpp/cmake-basics/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/tusha/Documents/learning-cpp/cmake-basics/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/tusha/Documents/learning-cpp/cmake-basics/build/Calculator/CMakeFiles/calc.dir
+C:/Users/tusha/Documents/learning-cpp/cmake-basics/build/Calculator/CMakeFiles/Calculator.dir
+C:/Users/tusha/Documents/learning-cpp/cmake-basics/build/Calculator/CMakeFiles/ALL_BUILD.dir
+C:/Users/tusha/Documents/learning-cpp/cmake-basics/build/Image/CMakeFiles/Image.dir
+C:/Users/tusha/Documents/learning-cpp/cmake-basics/build/Image/CMakeFiles/ALL_BUILD.dir

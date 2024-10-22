@@ -1,4 +1,4 @@
-#include "calc/lib.hpp"
+#include "add.hpp"
 #include <iostream>
 
 int main()
@@ -9,6 +9,6 @@ int main()
 	std::cout << "Type another integer: ";
 	std::cin >> y;
 
-	std::cout << "The sum of " << x << " and " << y << " is: " << add(x, y) << '\n';
+	std::cout << "The sum of " << x << " and " << y << " is: " << calculator::add(x, y) << '\n';
 	return 0;
 }
